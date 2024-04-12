@@ -1,1 +1,1 @@
-# Data-Science-Project--Amazon-stock-price-Prediction-and-Forecasting
+# Data_Science_Project--> Amazon_stock_price_Prediction & Forecasting
